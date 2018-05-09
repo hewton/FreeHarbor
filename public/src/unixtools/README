@@ -1,0 +1,5 @@
+Unix工具集合，包含如下：
+
+socks		：端口转发工具
+zcserver	：Telnet/FTP服务器
+
